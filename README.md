@@ -1,5 +1,5 @@
 Hey there! <br>
-I'm Jojii, a 23 year old developer and CS student from Germany. <br>
+I'm Jojii, a 24 year old developer and CS student from Germany. <br>
 I'm currently working on [Jotoba](https://jotoba.de), an advanced, feature-rich online dictionary for Japanese. <br>
 Feel free to check out my repos!
 
